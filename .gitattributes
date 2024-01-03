@@ -1,0 +1,2 @@
+asgn1/dont_nuke_alpine.ova filter=lfs diff=lfs merge=lfs -text
+asgn1/nukable_alpine.qcow2 filter=lfs diff=lfs merge=lfs -text
